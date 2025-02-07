@@ -1,0 +1,13 @@
+#envolope {
+    margin: 150px;
+    position: relative;
+    width: 280px;
+    height: 180px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 150px;
+    background-color: #f02b35;
+    box-shadow: 0 4px 20px rbga(0, 0, 0, 0.2);
+}
